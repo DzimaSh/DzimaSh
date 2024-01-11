@@ -1,53 +1,60 @@
 # 👋 Introduction
 
-Hello, I'm Dima! 🚀 An accomplished **software engineer** with 2 years of industry experience. I'm highly skilled in a diverse range of **programming languages, tools, and frameworks**. 🌟
+Hello, I'm Dima! 😃 An accomplished **software engineer** with 3 years of industry experience. I'm highly skilled in a diverse range of **programming languages, tools, and frameworks**.
 
 From a young age, I've been driven by curiosity, always eager to **work, learn, investigate, and explore**. 🕵️ I've approached every new question with a determination to uncover the most comprehensive answers.
 
-My journey led me to the exciting world of **computer science and programming**, where I discovered my true passion. 🖥️ After some time, I realized that my future career would be in this dynamic field. I embarked on a deep dive into the realm of IT, and now, I can confidently say that I'm on the right path and prepared to tackle new challenges. 💪
+My journey led me to the exciting world of **computer science and programming**, where I discovered my true passion. After some time, I realized that my future career would be in this dynamic field. I embarked on a deep dive into the realm of IT, and now, I can confidently say that I'm on the right path and prepared to tackle new challenges. 💪
 
-My expertise encompasses **Java**, **JavaScript**, and **TypeScript**, with a strong focus on both **back-end and front-end development**. 🌐
+My expertise encompasses **Java**, **JavaScript** and **TypeScript**, with a strong focus on both **back-end and front-end development**.
 
-Let's build something amazing together! 🚀
+Let's build something amazing together! 🌟
 
 
-## Technical Skills
+## 🚀 Technical Skills
 
-#### Languages
+#### 💻 Programming Languages
 - *Primary*: Java
 - *Secondary*: JavaScript, TypeScript
-- *Additionally*: C++, C#
+- *Additionally*: C++, Python, Kotlin
 
-#### Technologies, APIs, Methodologies
+#### 🛠️ Technologies, APIs, Methodologies
 - *Primary*: 
   - Spring (Boot, Cloud, MVC, Data, Security, AOP, Integration)
-  - Java EE (JSP/JSTL, EJB, Servlets)
-  - AWS, REST, CI/CD, Hibernate, Redis, Wiremock
-  - Jasper, MapStruct, Lombok, Swagger
-  - Maven, Gradle, JUnit, Mockito, UML, Quartz, Docker, Docker Compose, Git, QueryDSL
+  - Java EE (JSP/JSTL, EJB, Servlets, Thymeleaf)
+  - Hibernate, QueryDSL, Quartz
+  - Jasper, MapStruct, Lombok, Swagger, JUnit, Mockito
+  - Maven, Gradle, Docker, Docker Compose
+  - UML
+  - AWS (Lambda, S3, ECR, EC2), REST, CI/CD
+  - Git, GitFlow
 - *Secondary*:
-  - Redis, RabbitMQ, XML, React, HTML, CSS, ESLint, Redux
+  - Redis, RabbitMQ, XML
+  - React, ESLint, Redux, MUI, HTML, CSS
+- *Additionally*:
+  - Angular, NgRx
 
-#### Databases
+#### 🗄️ Databases
 - *Primary*: PostgreSQL, MySQL, MSSQL, Liquibase, Flyway
 - *Secondary*: MongoDB, ElasticSearch
 - *Additionally*: Oracle
 
-#### O/S
+#### 🖥️ O/S
 - *Primary*: Linux, Ubuntu
 - *Secondary*: Windows
 
-#### Tools, Application Platforms, and Other
+#### 🧰 Tools, Application Platforms and Other
 - IntelliJ IDEA, WebStorm, VSCode, Microsoft Office
-- GitHub, GitLab, Bitbucket, Circle CI, GitHub Actions
+- GitHub, GitLab, Bitbucket, Circle CI, GitHub Actions, Sonar Cloud
+- Postman
 
-#### Foreign Languages
+#### 🌐 Foreign Languages
 - **English**: Written & Spoken – Advanced
 - **French**: Written & Spoken – Elementary
 - **Belarusian, Russian**: Native
 
 
-## Notable Projects
+## 🏆 Notable Projects
 
 Throughout my career, I have worked on several notable projects:
 
