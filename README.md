@@ -61,13 +61,13 @@ Throughout my career, I have worked on several notable projects:
 1. **Bardo** (10.2022 – Present): 
    - The Bardo Project is an educational system endorsed by the Ministry of Education in the Netherlands. This application is a multi-tenant platform where schools and colleges can educate their students and increase the skills of teachers.
 
-2. **Stripe Recommendation Systems** (08.2023 - 10.2023): 
+2. **Stripe Recommendation Systems** (09.2021 - 10.2022): 
    - New AI-powered recommendation system. Using cutting-edge machine learning algorithms, our system delivers personalized product recommendations to Stripe users, enhancing their shopping experience and boosting conversion rates.
 
-3. **Human Resource Management System** (06.2022 – 10.2022): 
+3. **Human Resource Management System** (06.2021 – 10.2021): 
    - An integrated personnel management system that provides quick access to essential employee information and streamlines user requests for resolving various issues within the company's internal systems.
 
-4. **Cargo Tracking System** (04.2022 – 06.2022): 
+4. **Cargo Tracking System** (04.2020 – 06.2021): 
    - Project is a cargo delivery tracking system. The application allows you to track the status of cargo and the movement of vehicles with cargo through checkpoints on the Google map.
 
 Driven by a passion for continuous learning and growth, I am always eager to explore new technologies and apply my expertise to challenging projects.
