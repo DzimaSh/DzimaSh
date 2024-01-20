@@ -67,7 +67,7 @@ Throughout my career, I have worked on several notable projects:
 3. **Human Resource Management System** (06.2021 – 10.2021): 
    - An integrated personnel management system that provides quick access to essential employee information and streamlines user requests for resolving various issues within the company's internal systems.
 
-4. **Cargo Tracking System** (04.2020 – 06.2021): 
+4. **Cargo Tracking System** (04.2021 – 06.2021): 
    - Project is a cargo delivery tracking system. The application allows you to track the status of cargo and the movement of vehicles with cargo through checkpoints on the Google map.
 
 Driven by a passion for continuous learning and growth, I am always eager to explore new technologies and apply my expertise to challenging projects.
