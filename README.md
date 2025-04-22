@@ -1,78 +1,106 @@
 # 👋 Introduction
 
-Hello, I'm Dima! 😃 An accomplished **software engineer** with 3 years of industry experience. I'm highly skilled in a diverse range of **programming languages, tools, and frameworks**.
+Hello, I'm Dzmitry! 😃 An accomplished **Software Engineer** with **4 years of industry experience**. I specialize in a wide range of **programming languages, tools, and frameworks**, with a strong focus on delivering high-quality solutions and staying aligned with technological trends.
 
-From a young age, I've been driven by curiosity, always eager to **work, learn, investigate, and explore**. 🕵️ I've approached every new question with a determination to uncover the most comprehensive answers.
+From a young age, I've been driven by curiosity, always eager to **work, learn, investigate, and explore**. 🕵️ My journey led me to the dynamic world of **software engineering**, where I discovered my passion for solving complex problems and building scalable systems. Now, I’m ready to take on new challenges and contribute to innovative projects. 💪
 
-My journey led me to the exciting world of **computer science and programming**, where I discovered my true passion. After some time, I realized that my future career would be in this dynamic field. I embarked on a deep dive into the realm of IT, and now, I can confidently say that I'm on the right path and prepared to tackle new challenges. 💪
+My expertise spans **Java, Kotlin, JavaScript, TypeScript, and more**, with hands-on experience in **back-end, front-end, and DevOps practices**. Let’s build something amazing together! 🌟
 
-My expertise encompasses **Java**, **JavaScript** and **TypeScript**, with a strong focus on both **back-end and front-end development**.
-
-Let's build something amazing together! 🌟
-
+---
 
 ## 🚀 Technical Skills
 
-#### 💻 Programming Languages
-- *Primary*: Java
-- *Secondary*: JavaScript, TypeScript
-- *Additionally*: C++, Python, Kotlin
+#### 💻 Programming Languages  
+- **Primary**: Java, Kotlin  
+- **Secondary**: JavaScript, TypeScript  
+- **Additionally**: Python, C++ 
 
-#### 🛠️ Technologies, APIs, Methodologies
-- *Primary*: 
-  - Spring (Boot, Cloud, MVC, Data, Security, AOP, Integration)
-  - Java EE (JSP/JSTL, EJB, Servlets, Thymeleaf)
-  - Hibernate, QueryDSL, Quartz
-  - Jasper, MapStruct, Lombok, Swagger, JUnit, Mockito
-  - Maven, Gradle, Docker, Docker Compose
-  - UML
-  - AWS (Lambda, S3, ECR, EC2), REST, CI/CD
-  - Git, GitFlow
-- *Secondary*:
-  - Redis, RabbitMQ, XML
-  - React, ESLint, Redux, MUI, HTML, CSS
-- *Additionally*:
-  - Angular, NgRx
+#### 🛠️ Technologies & Frameworks  
+- **Backend**:  
+  - Spring (Boot, Cloud, MVC, Data, Security, AOP, Integration), Java EE (JSP/JSTL, EJB, Servlets)  
+  - Hibernate, QueryDSL, Quartz, Camunda BPM  
+  - Lombok, MapStruct, Jackson, Swagger, Wiremock  
+- **Frontend**:  
+  - React, Redux, TypeScript, MUI, Draft.js, React Router  
+  - HTML, CSS, ESLint  
+- **DevOps & Cloud**:  
+  - AWS (S3, ECR, Lambda, Eureka), Docker, Kubernetes, CI/CD (CircleCI, GitHub Actions, ArgoCD)  
+  - Helm, Prometheus, Kibana, SonarQube  
+- **APIs & Methodologies**:  
+  - REST, OpenAPI, SOAP, Kafka, Redis, RabbitMQ  
+  - Microservices, Event-Driven Architecture  
 
-#### 🗄️ Databases
-- *Primary*: PostgreSQL, MySQL, MSSQL, Liquibase, Flyway
-- *Secondary*: MongoDB, ElasticSearch
-- *Additionally*: Oracle
+#### 🗄️ Databases  
+- **Primary**: PostgreSQL, MySQL, MSSQL, Liquibase, Flyway  
+- **Secondary**: MongoDB, ElasticSearch, Oracle  
 
-#### 🖥️ O/S
-- *Primary*: Linux, Ubuntu
-- *Secondary*: Windows
+#### 🖥️ Operating Systems  
+- **Primary**: Linux, Ubuntu  
+- **Secondary**: Windows  
 
-#### 🧰 Tools, Application Platforms and Other
-- IntelliJ IDEA, WebStorm, VSCode, Microsoft Office
-- GitHub, GitLab, Bitbucket, Circle CI, GitHub Actions, Sonar Cloud
-- Postman
+#### 🧰 Tools & Platforms  
+- **IDEs**: IntelliJ IDEA, WebStorm, VSCode  
+- **Version Control**: Git, GitHub, GitLab, Bitbucket  
+- **Other**: Postman, Jasper, Birt Engine, Microsoft Office  
 
-#### 🌐 Foreign Languages
-- **English**: Written & Spoken – Advanced
-- **French**: Written & Spoken – Elementary
-- **Belarusian, Russian**: Native
+#### 🌐 Foreign Languages  
+- **English**: Advanced (C1)  
+- **French**: Elementary (A2)  
+- **Belarusian, Russian**: Native  
 
+---
 
-## 🏆 Notable Projects
+## 🏆 Notable Projects  
 
-Throughout my career, I have worked on several notable projects:
+### 1. **MOEX Long-Term Savings Program System** *(04.2024 – Present)*  
+**Role**: Senior Backend Developer  
+**Tech Stack**: Java 17, Spring Cloud, Quarkus, Camunda, PostgreSQL, Kafka, Keycloak, Kubernetes  
+**Achievements**:  
+- Designed and developed the core system for bond registration, including a **50+ step BPMN workflow** in Camunda.  
+- Migrated legacy integrations to **OpenAPI contracts** using Swagger Codegen.  
+- Implemented a **two-phase commit mechanism** for PostgreSQL-Kafka transactions.  
+- Resolved critical production issues (e.g., race conditions with JPA optimistic locking).  
+- Automated migrations via **ArgoCD + Liquibase** and introduced **feature flags** for safer deployments.  
 
-1. **Bardo** (10.2022 – Present): 
-   - The Bardo Project is an educational system endorsed by the Ministry of Education in the Netherlands. This application is a multi-tenant platform where schools and colleges can educate their students and increase the skills of teachers.
+### 2. **Bardo (Educational Platform)** *(10.2022 – 03.2024)*  
+**Role**: Full-stack Developer  
+**Tech Stack**: Java, Spring, React, TypeScript, AWS, Kubernetes  
+**Achievements**:  
+- Led the transition from **Angular to React**, improving UI performance.  
+- Optimized database queries, reducing latency by **30%**.  
+- Developed reusable React components and managed state with **Redux**.  
+- Implemented CI/CD pipelines using **CircleCI and Kubernetes**.  
 
-2. **Stripe Recommendation Systems** (09.2021 - 10.2022): 
-   - New AI-powered recommendation system. Using cutting-edge machine learning algorithms, our system delivers personalized product recommendations to Stripe users, enhancing their shopping experience and boosting conversion rates.
+### 3. **Stripe Recommendation Systems** *(08.2021 – 09.2022)*  
+**Role**: Full-stack Developer  
+**Tech Stack**: Java, Spring, Kotlin, AWS Lambda, PostgreSQL  
+**Achievements**:  
+- Built a serverless AI-powered recommendation engine using **AWS Lambda**.  
+- Designed RESTful APIs and database architecture for scalability.  
 
-3. **Human Resource Management System** (06.2021 – 10.2021): 
-   - An integrated personnel management system that provides quick access to essential employee information and streamlines user requests for resolving various issues within the company's internal systems.
+### 4. **HR Management System** *(06.2021 – 10.2021)*  
+**Role**: Backend Developer  
+**Tech Stack**: Java, Spring, Hibernate, PostgreSQL  
+**Achievements**:  
+- Developed employee self-service (ESS) modules and automated HR workflows.  
+- Created database triggers and indexes to optimize query performance.  
 
-4. **Cargo Tracking System** (04.2021 – 06.2021): 
-   - Project is a cargo delivery tracking system. The application allows you to track the status of cargo and the movement of vehicles with cargo through checkpoints on the Google map.
+---
 
-Driven by a passion for continuous learning and growth, I am always eager to explore new technologies and apply my expertise to challenging projects.
+## 📚 Education  
+**Belarusian State University**  
+- *Bachelor’s Degree in Applied Mathematics and Computer Science*  
 
+---
 
-## 📱 Contacts
+## 🌟 Soft Skills & Interests  
+- **Problem-Solving**: Analytical thinker with a strategic approach to challenges.  
+- **Leadership**: Mentored junior developers and conducted 15+ workshops.  
+- **Communication**: Collaborated with cross-functional teams and regulators (e.g., ISO 20022 compliance).  
+- **Hobbies**: Classical piano, history, sports, and language learning.  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dzima_Sh) [![Whatsup](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/375447723977) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzmitry.shushkevich@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimaster_19/)
+---
+
+## 📱 Contacts  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dzima_Sh) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/375447723977) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dzmitry.shushkevich@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-shushkevich) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dzima_Sh/)
+
