@@ -16,7 +16,7 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 | **Databases & ORM** | SQL: **PostgreSQL**, MySQL, MSSQL, Oracle <br> NoSQL: MongoDB, Cassandra, Redis <br> Tools: Liquibase, Flyway |
 | **Tools & Platforms** | Git, GitHub Actions, GitLab CI/CD, CircleCI, Bitbucket, IntelliJ IDEA, VSCode |
 | **Operating Systems** | **Linux (Ubuntu)**, Windows |
-| **Foreign Languages** | **English (Advanced - C1)**, Russian (Native - C2), Belarusian (Native), Ukrainian (Intermediate - B1), French (Elementary - A2) |
+| **Foreign Languages** | <table><tr><td>• Belarusian (Native)<br>• Russian (Native - C2)<br>• Ukrainian (Intermediate - B1)</td><td>• English (Advanced - C1)<br>• French (Elementary - A2)</td></tr></table> |
 
 ## 💼 Experience & Projects
 
