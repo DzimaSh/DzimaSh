@@ -38,7 +38,7 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 
 ## 🏆 Honors, Publications & Activities
 
-- **Academic Thesis Publication (2025)**: *Лучшие дипломные проекты, защищенные студентами факультета прикладной математики и информатики. 2025 : [94]* — published in the BSU Digital Library ([elib.bsu.by/handle/123456789/334997](https://elib.bsu.by/handle/123456789/334997)).
+- **Academic Thesis Publication (2025)**: *Лучшие дипломные проекты, защищенные студентами факультета прикладной математики и информатики. 2025* — Published in the [BSU Digital Library](https://elib.bsu.by/handle/123456789/334997). The accompanying codebase is hosted at [DzimaSh/neural-network-analysis-wolfram-python](https://github.com/DzimaSh/neural-network-analysis-wolfram-python).
 - **National Informatics Olympiads**: Winner of multiple national informatics olympiads.
 - **Professional Football**: Active professional football player (profile on [Alfoot](https://www.alfoot.net/tournaments/?func=showPlayer&p=217&pid=10832)).
 - **Leadership**: Served as Student Union President at BSU, leading a student executive team, organizing campus-wide events, and representing student interests.
