@@ -4,8 +4,6 @@
 
 Accomplished **Software Engineer** with 4+ years of industry experience and a distinguished academic and competitive programming background. I specialize in building, scaling, and optimizing high-load financial systems, distributed microservice architectures, and modern AI-augmented development environments.
 
----
-
 ## 🚀 Technical Skills
 
 | Category | Skills |
@@ -20,33 +18,23 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 | **Operating Systems** | **Linux (Ubuntu)**, Windows |
 | **Foreign Languages** | **English (Advanced - C1)**, Russian (Native - C2), Belarusian (Native), Ukrainian (Intermediate - B1), French (Elementary - A2) |
 
----
-
 ## 💼 Experience & Projects
 
 #### 🚀 **Yandex** &nbsp;•&nbsp; *Software Engineer (Direct)* &nbsp;•&nbsp; `04.2026 – Present`
 - **Stack:** `Kotlin` `Java` `C++` `YTsaurus` `MapReduce` `Claude Code` `Multi-Agent AI`
 - **Focus:** Developing and scaling backend architectures for a high-load advertising platform serving millions of requests per second. Pioneering the integration of agentic AI development and verification workflows to maximize developer velocity.
 
-<br/>
-
 #### 🏛️ **MOEX (Moscow Exchange)** &nbsp;•&nbsp; *Senior Backend Developer* &nbsp;•&nbsp; `04.2024 – 04.2026`
 - **Stack:** `Java 21` `Kotlin` `Spring Cloud` `Quarkus` `Camunda BPM` `PostgreSQL` `Kafka` `Keycloak` `Kubernetes`
 - **Focus:** Engineered the end-to-end secure transaction lifecycle for digital assets. Designed and deployed high-performance microservice communications and a 2PC transactional pipeline handling 10,000+ tx/min.
-
-<br/>
 
 #### 🎓 **Bardo** &nbsp;•&nbsp; *Full-Stack Developer* &nbsp;•&nbsp; `10.2022 – 01.2024`
 - **Stack:** `Java` `Spring Boot` `Hibernate` `React` `TypeScript` `AWS` `Kubernetes`
 - **Focus:** Led the frontend transition from Angular to React, optimized database query execution to reduce latency by 30%, and engineered CircleCI deployment pipelines.
 
-<br/>
-
 #### 💳 **Stripe** &nbsp;•&nbsp; *Full-Stack Developer* &nbsp;•&nbsp; `08.2021 – 09.2022`
 - **Stack:** `Kotlin` `Spring Boot` `Java` `AWS Lambda` `PostgreSQL` `MongoDB`
 - **Focus:** Co-designed and implemented real-time, serverless AI recommendation engines and modeled scalable NoSQL data layers for high-volume transactions.
-
----
 
 ## 🏆 Honors, Publications & Activities
 
@@ -55,16 +43,12 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 - **Professional Football**: Active professional football player (profile on [Alfoot](https://www.alfoot.net/tournaments/?func=showPlayer&p=217&pid=10832)).
 - **Leadership**: Served as Student Union President at BSU, leading a student executive team, organizing campus-wide events, and representing student interests.
 
----
-
 ## 📚 Education
 
 - **Belarusian State University of Informatics and Radioelectronics**
   - *Master’s Degree, Faculty of Computer Systems and Networks* (2027)
 - **Belarusian State University**
   - *Bachelor's Degree, Faculty of Applied Mathematics and Computer Science* (2025)
-
----
 
 ## 📱 Contacts
 
