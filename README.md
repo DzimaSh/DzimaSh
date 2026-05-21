@@ -1,11 +1,8 @@
+# 👋 Hello, I'm Dzmitry!
 
-# 👋 Introduction
+**Software Engineer @ Yandex (Direct)** | Ex-Senior Backend Developer @ MOEX | FinTech & Web3 Specialist
 
-Hello, I'm Dzmitry! 😃 An accomplished **Software Engineer** with **4 years of industry experience** and a distinguished academic background, including multiple national informatics olympiad wins. I specialize in designing, building, and optimizing secure, high-integrity financial platforms within the FinTech and cryptocurrency sectors.
-
-My expertise spans a wide range of **programming languages, tools, and frameworks**, with a strong focus on delivering high-quality solutions. I am fluent in **Java** and **Kotlin** and possess deep expertise in the modern backend ecosystem, including Spring Boot, REST/SOAP APIs, Docker, and Kubernetes. I have a proven track record of implementing robust CI/CD pipelines and a commitment to quality. I am eager to apply my deep experience in distributed systems and financial technology to a challenging role focused on building the future of finance.
-
-From a young age, I've been driven by curiosity, always eager to **work, learn, investigate, and explore** 🕵️. My journey led me to the dynamic world of **software engineering**, where I discovered my passion for solving complex problems and building scalable systems. My experience extends to **Web3.0 technologies**, including Ethereum (Solidity), TON, and Hyperledger Fabric, as well as hands-on experience with DLT, cryptography, and various token standards. Now, I’m ready to take on new challenges and contribute to innovative projects. 💪 Let’s build something amazing together! 🌟
+Accomplished **Software Engineer** with 4+ years of industry experience and a distinguished academic and competitive programming background. I specialize in building, scaling, and optimizing high-load financial systems, distributed microservice architectures, and modern AI-augmented development environments.
 
 ---
 
@@ -14,59 +11,99 @@ From a young age, I've been driven by curiosity, always eager to **work, learn, 
 | Category | Skills |
 | --- | --- |
 | **Languages** | **Java**, **Kotlin**, TypeScript, Python, C++ |
-| **Technologies/APIs** | Web: **Spring** (Boot, Cloud, MVC, Data, Security, AOP, Integration, Batch, Test), CDI, **REST/SOAP**, **AWS** (EC2, Fargate, S3, ALB, ECR, DynamoDB, Lambda), CI/CD, **Hibernate**, Redis, **Docker**, **Kubernetes**, QueryDSL, **Camunda**, gRPC (Protobuf), GWT, **Apache Kafka**, RabbitMQ <br><br> Web 3.0: Ethereum (**Solidity**), TON, **Hyperledger Fabric**, Web3.js, Chainlink, IPFS, **Multi-Party Computation (MPC)**, **Distributed Ledger Technology (DLT)**, Cryptography (Hashing, Encryption, Digital Signatures), Token Standards (ERC-20, ERC-721, ERC-1155) <br><br> ML & Big Data: Hadoop, TensorFlow OCR, Scikit-learn, Apache Spark, Pandas, Numpy (transformers, RNN, CNN, CTRNN) |
-| **Databases**| SQL: **PostgreSQL**, MySQL, MSSQL, Oracle <br> NoSQL: MongoDB, Apache Cassandra, Redis <br> ORM: Spring Data, JPA, Hibernate, Liquibase, Flyway |
-| **Tools & Platforms**| **ChatGPT**, Gemini, IntelliJ IDEA, **Cursor**, VSCode, Microsoft Office, GitHub, GitLab, Bitbucket, Circle CI, GitHub Actions |
-| **Operating Systems**| **Linux**, **Ubuntu**, Windows |
-| **Foreign Languages**| **English (Advanced - C1)**, Ukrainian (Intermediate - B1), French (Elementary - A2), Belarusian (Native), Russian (Proficiency - С2) |
+| **Technologies & APIs** | **Spring Boot / Spring Cloud**, CDI, **REST/SOAP**, **AWS** (EC2, Fargate, S3, ALB, ECR, DynamoDB, Lambda), CI/CD, **Hibernate**, Redis, **Docker**, **Kubernetes**, QueryDSL, **Camunda BPM**, gRPC (Protobuf), GWT, **Apache Kafka**, RabbitMQ |
+| **AI & Agentic Tools** | **Claude Code**, Multi-agent development environments, **Cursor**, ChatGPT, Gemini, LLM-orchestrated workflows |
+| **Web 3.0 & Cryptography** | Ethereum (**Solidity**), TON, **Hyperledger Fabric**, Web3.js, Chainlink, IPFS, **Multi-Party Computation (MPC)**, **Distributed Ledger Technology (DLT)**, Cryptography (Hashing, Encryption, Digital Signatures), ERC-20, ERC-721, ERC-1155 |
+| **ML & Data Systems** | Hadoop, TensorFlow OCR, Scikit-learn, Apache Spark, Pandas, NumPy (Transformers, RNN, CNN, CTRNN) |
+| **Databases & ORM** | SQL: **PostgreSQL**, MySQL, MSSQL, Oracle <br> NoSQL: MongoDB, Cassandra, Redis <br> Tools: Liquibase, Flyway |
+| **Tools & Platforms** | Git, GitHub Actions, GitLab CI/CD, CircleCI, Bitbucket, IntelliJ IDEA, VSCode |
+| **Operating Systems** | **Linux (Ubuntu)**, Windows |
+| **Foreign Languages** | **English (Advanced - C1)**, Russian (Native - C2), Belarusian (Native), Ukrainian (Intermediate - B1), French (Elementary - A2) |
 
 ---
 
 ## 🏆 Notable Projects
 
-### 1. **MOEX Long-Term Savings Program System** *(04.2024 – Present)*
+### 1. **Yandex Direct** *(04.2026 – Present)*
+**Role**: Software Engineer
+**Tech Stack**: Kotlin, Java, C++, YTsaurus, MapReduce, Claude Code, Multi-Agent AI Environments
+**Key Contributions**:
+- Developing and scaling backend architectures for **Yandex Direct**, a high-load ad tech platform serving millions of requests per second.
+- Pioneering the integration of **agentic AI tools and multi-agent development environments** (leveraging tools like Claude Code) to accelerate developer workflows, automate system verification, and orchestrate complex code migrations.
+- Optimizing high-throughput, low-latency ad-serving subsystems and distributed data processing pipelines.
+
+### 2. **MOEX (Moscow Exchange) Long-Term Savings Program System** *(04.2024 – 04.2026)*
 **Role**: Senior Backend Developer
 **Tech Stack**: Java 21, Kotlin, Spring Cloud, Quarkus, Camunda, PostgreSQL, Kafka, Keycloak, Kubernetes
 **Achievements**:
-- Engineered the complete, secure transaction lifecycle for digital assets, from KYC-compliant onboarding to atomic settlement of trades (buy/sell/store operations), leveraging DLT-inspired design patterns for auditable and tamper-proof records.
-- Fully implemented the bond registration process on Camunda BPM, including a workflow with over 50 verification steps and integration with 7 internal services.
-- Designed and deployed a robust two-phase commit mechanism to ensure atomic writes between PostgreSQL and Kafka event streams, handling over 10,000 transactions per minute.
-- Utilized gRPC for high-performance, low-latency internal communication between microservices.
+- Engineered the complete transaction lifecycle for digital assets (onboarding to atomic settlement), leveraging DLT-inspired design patterns for auditable, tamper-proof records.
+- Fully implemented the bond registration process on Camunda BPM, integrating a workflow of 50+ verification steps across 7 internal services.
+- Designed and deployed a robust two-phase commit mechanism ensuring atomic writes between PostgreSQL and Kafka event streams, handling **10,000+ transactions per minute**.
+- Utilized gRPC for high-performance, low-latency microservice communication.
 
-### 2. **Bardo (Educational Platform)** *(10.2022 – 01.2024)*
+### 3. **Bardo (Educational Platform)** *(10.2022 – 01.2024)*
 **Role**: Full-stack Developer
 **Tech Stack**: Java, Spring, Hibernate, React, TypeScript, AWS, Kubernetes
 **Achievements**:
-- Led the transition from **Angular to React**, improving UI performance.
-- Optimized database queries, reducing latency by **30%**.
-- Developed reusable React components and managed application state with **Redux**.
-- Implemented CI/CD pipelines using **CircleCI and Kubernetes**.
+- Led the architectural transition from **Angular to React**, improving overall UI performance and client-side load times.
+- Optimized slow-running database queries, reducing query latency by **30%**.
+- Managed application state with **Redux** and developed modular, reusable React component systems.
+- Implemented and managed continuous delivery pipelines using **CircleCI and Kubernetes**.
 
-### 3. **Stripe Recommendation Systems** *(08.2021 – 09.2022)*
+### 4. **Stripe Recommendation Systems** *(08.2021 – 09.2022)*
 **Role**: Full-stack Developer
-**Tech Stack**: Kotlin, Spring, Java, AWS Lambda, PostgreSQL
+**Tech Stack**: Kotlin, Spring, Java, AWS Lambda, PostgreSQL, MongoDB
 **Achievements**:
-- Built a serverless AI-powered recommendation engine using **AWS Lambda**.
-- Designed and implemented a scalable, RESTful API in **Kotlin** to serve real-time product recommendations.
-- Designed a flexible database schema using **MongoDB** to efficiently handle large volumes of unstructured e-commerce and transaction data.
+- Co-built a serverless, AI-powered recommendation engine utilizing **AWS Lambda**.
+- Designed and implemented scalable RESTful APIs in **Kotlin** to serve real-time recommendations.
+- Modeled flexible schemas in **MongoDB** to efficiently query large volumes of unstructured transaction and e-commerce data.
+
+---
+
+## 🏆 Honors, Publications & Activities
+
+- **Academic Thesis Publication (2025)**: *Лучшие дипломные проекты, защищенные студентами факультета прикладной математики и информатики. 2025 : [94]* — published in the BSU Digital Library ([elib.bsu.by/handle/123456789/334997](https://elib.bsu.by/handle/123456789/334997)).
+- **National Informatics Olympiads**: Winner of multiple national informatics olympiads.
+- **Professional Football**: Active professional football player (profile on [Alfoot](https://www.alfoot.net/tournaments/?func=showPlayer&p=217&pid=10832)).
+- **Leadership**: Served as Student Union President at BSU, leading a student executive team, organizing campus-wide events, and representing student interests.
 
 ---
 
 ## 📚 Education
+
 - **Belarusian State University of Informatics and Radioelectronics**
-    - *Master’s Degree, Faculty of Computer Systems and Networks* (2027)
+  - *Master’s Degree, Faculty of Computer Systems and Networks* (2027)
 - **Belarusian State University**
-    - *Bachelor's Degree, Faculty of Applied Mathematics and Computer Science* (2025)
+  - *Bachelor's Degree, Faculty of Applied Mathematics and Computer Science* (2025)
 
 ---
 
-## 🌟 Soft Skills & Interests
-- **Problem-Solving**: Developed analytical thinking with the ability to quickly break down large problems, gather reliable information, and find appropriate solutions. I have a comprehensive approach to managing complex problems and unexpected situations.
-- **Leadership**: Not afraid to take responsibility for decisions. I can unite people into a team, distribute tasks, and train new team members. As the Student Union President at BSU, I led a team of dedicated students in organizing events, representing student interests, and fostering a vibrant campus community.
-- **Communication**: Collaborated with cross-functional teams and regulators (e.g., ISO 20022 compliance).
-- **Hobbies**: Active sports (football enthusiast), classical piano, world and national history, fishing, and learning foreign languages.
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DzimaSh&show_icons=true&theme=radical&count_private=true" alt="Dzmitry's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzimaSh&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 ---
 
 ## 📱 Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dzima_Sh) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/375447723977) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dzmitry.shushkevich@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-shushkevich) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dzima_Sh/)
+
+<p align="center">
+  <a href="https://t.me/Dzima_Sh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/375447723977">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:dzmitry.shushkevich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/dmitry-shushkevich">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Dzima_Sh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
