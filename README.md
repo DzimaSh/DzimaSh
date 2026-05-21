@@ -24,39 +24,18 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 
 ## 🏆 Notable Projects
 
-### 1. **Yandex Direct** *(04.2026 – Present)*
-**Role**: Software Engineer
-**Tech Stack**: Kotlin, Java, C++, YTsaurus, MapReduce, Claude Code, Multi-Agent AI Environments
-**Key Contributions**:
-- Developing and scaling backend architectures for **Yandex Direct**, a high-load ad tech platform serving millions of requests per second.
-- Pioneering the integration of **agentic AI tools and multi-agent development environments** (leveraging tools like Claude Code) to accelerate developer workflows, automate system verification, and orchestrate complex code migrations.
-- Optimizing high-throughput, low-latency ad-serving subsystems and distributed data processing pipelines.
-
-### 2. **MOEX (Moscow Exchange) Long-Term Savings Program System** *(04.2024 – 04.2026)*
-**Role**: Senior Backend Developer
-**Tech Stack**: Java 21, Kotlin, Spring Cloud, Quarkus, Camunda, PostgreSQL, Kafka, Keycloak, Kubernetes
-**Achievements**:
-- Engineered the complete transaction lifecycle for digital assets (onboarding to atomic settlement), leveraging DLT-inspired design patterns for auditable, tamper-proof records.
-- Fully implemented the bond registration process on Camunda BPM, integrating a workflow of 50+ verification steps across 7 internal services.
-- Designed and deployed a robust two-phase commit mechanism ensuring atomic writes between PostgreSQL and Kafka event streams, handling **10,000+ transactions per minute**.
-- Utilized gRPC for high-performance, low-latency microservice communication.
-
-### 3. **Bardo (Educational Platform)** *(10.2022 – 01.2024)*
-**Role**: Full-stack Developer
-**Tech Stack**: Java, Spring, Hibernate, React, TypeScript, AWS, Kubernetes
-**Achievements**:
-- Led the architectural transition from **Angular to React**, improving overall UI performance and client-side load times.
-- Optimized slow-running database queries, reducing query latency by **30%**.
-- Managed application state with **Redux** and developed modular, reusable React component systems.
-- Implemented and managed continuous delivery pipelines using **CircleCI and Kubernetes**.
-
-### 4. **Stripe Recommendation Systems** *(08.2021 – 09.2022)*
-**Role**: Full-stack Developer
-**Tech Stack**: Kotlin, Spring, Java, AWS Lambda, PostgreSQL, MongoDB
-**Achievements**:
-- Co-built a serverless, AI-powered recommendation engine utilizing **AWS Lambda**.
-- Designed and implemented scalable RESTful APIs in **Kotlin** to serve real-time recommendations.
-- Modeled flexible schemas in **MongoDB** to efficiently query large volumes of unstructured transaction and e-commerce data.
+- **Yandex Direct** *(04.2026 – Present)* | **Software Engineer**
+  - **Tech Stack**: Kotlin, Java, C++, YTsaurus, MapReduce, Claude Code, Multi-Agent AI Environments
+  - **Focus**: Developing and scaling high-load advertising platform backend architectures; pioneering agentic AI-assisted development environments.
+- **MOEX (Moscow Exchange) Long-Term Savings Program System** *(04.2024 – 04.2026)* | **Senior Backend Developer**
+  - **Tech Stack**: Java 21, Kotlin, Spring Cloud, Quarkus, Camunda, PostgreSQL, Kafka, Keycloak, Kubernetes
+  - **Focus**: Engineered digital asset transaction lifecycles, bond registration workflows, and high-throughput microservice communication systems.
+- **Bardo (Educational Platform)** *(10.2022 – 01.2024)* | **Full-stack Developer**
+  - **Tech Stack**: Java, Spring, Hibernate, React, TypeScript, AWS, Kubernetes
+  - **Focus**: Transitioned UI from Angular to React, optimized database queries, and set up Kubernetes delivery pipelines.
+- **Stripe Recommendation Systems** *(08.2021 – 09.2022)* | **Full-stack Developer**
+  - **Tech Stack**: Kotlin, Spring, Java, AWS Lambda, PostgreSQL, MongoDB
+  - **Focus**: Co-built serverless, AI-powered product recommendation engines and scalable microservice REST APIs.
 
 ---
 
@@ -78,12 +57,12 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DzimaSh&show_icons=true&theme=radical&count_private=true" alt="Dzmitry's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzimaSh&layout=compact&theme=radical" alt="Top Langs" />
+  <a href="https://github.com/DzimaSh">
+    <img src="https://streak-stats.demolab.com/?user=DzimaSh&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
