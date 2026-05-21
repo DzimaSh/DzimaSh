@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Dzmitry!
 
+[🇧🇾 Беларуская](README.be.md)
+
 **Software Engineer @ Yandex (Direct)** | Ex-Senior Backend Developer @ MOEX | FinTech & Web3 Specialist
 
 Accomplished **Software Engineer** with 4+ years of industry experience and a distinguished academic and competitive programming background. I specialize in building, scaling, and optimizing high-load financial systems, distributed microservice architectures, and modern AI-augmented development environments.
