@@ -22,20 +22,39 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 
 ---
 
-## 🏆 Notable Projects
+## 🏆 Experience & Projects
 
-- **Yandex Direct** *(04.2026 – Present)* | **Software Engineer**
-  - **Tech Stack**: Kotlin, Java, C++, YTsaurus, MapReduce, Claude Code, Multi-Agent AI Environments
-  - **Focus**: Developing and scaling high-load advertising platform backend architectures; pioneering agentic AI-assisted development environments.
-- **MOEX (Moscow Exchange) Long-Term Savings Program System** *(04.2024 – 04.2026)* | **Senior Backend Developer**
-  - **Tech Stack**: Java 21, Kotlin, Spring Cloud, Quarkus, Camunda, PostgreSQL, Kafka, Keycloak, Kubernetes
-  - **Focus**: Engineered digital asset transaction lifecycles, bond registration workflows, and high-throughput microservice communication systems.
-- **Bardo (Educational Platform)** *(10.2022 – 01.2024)* | **Full-stack Developer**
-  - **Tech Stack**: Java, Spring, Hibernate, React, TypeScript, AWS, Kubernetes
-  - **Focus**: Transitioned UI from Angular to React, optimized database queries, and set up Kubernetes delivery pipelines.
-- **Stripe Recommendation Systems** *(08.2021 – 09.2022)* | **Full-stack Developer**
-  - **Tech Stack**: Kotlin, Spring, Java, AWS Lambda, PostgreSQL, MongoDB
-  - **Focus**: Co-built serverless, AI-powered product recommendation engines and scalable microservice REST APIs.
+---
+
+### 🚀 **Yandex** &nbsp;•&nbsp; Software Engineer
+**Direct Project** | *04.2026 – Present*
+
+* **Stack:** `Kotlin` `Java` `C++` `YTsaurus` `MapReduce` `Claude Code` `Multi-Agent AI`
+* **Focus:** Developing and scaling backend architectures for a high-load advertising platform serving millions of requests per second. Pioneering the integration of agentic AI development and verification workflows to maximize developer velocity.
+
+---
+
+### 🏛️ **MOEX (Moscow Exchange)** &nbsp;•&nbsp; Senior Backend Developer
+**Long-Term Savings Program System** | *04.2024 – 04.2026*
+
+* **Stack:** `Java 21` `Kotlin` `Spring Cloud` `Quarkus` `Camunda BPM` `PostgreSQL` `Kafka` `Keycloak` `Kubernetes`
+* **Focus:** Engineered the end-to-end secure transaction lifecycle for digital assets. Designed and deployed high-performance microservice communications and a 2PC transactional pipeline handling 10,000+ tx/min.
+
+---
+
+### 🎓 **Bardo** &nbsp;•&nbsp; Full-Stack Developer
+**Educational Platform** | *10.2022 – 01.2024*
+
+* **Stack:** `Java` `Spring Boot` `Hibernate` `React` `TypeScript` `AWS` `Kubernetes`
+* **Focus:** Led the frontend transition from Angular to React, optimized database query execution to reduce latency by 30%, and engineered CircleCI deployment pipelines.
+
+---
+
+### 💳 **Stripe** &nbsp;•&nbsp; Full-Stack Developer
+**Recommendation Systems** | *08.2021 – 09.2022*
+
+* **Stack:** `Kotlin` `Spring Boot` `Java` `AWS Lambda` `PostgreSQL` `MongoDB`
+* **Focus:** Co-designed and implemented real-time, serverless AI recommendation engines and modeled scalable NoSQL data layers for high-volume transactions.
 
 ---
 
@@ -57,12 +76,10 @@ Accomplished **Software Engineer** with 4+ years of industry experience and a di
 
 ---
 
-## 📊 GitHub Activity & Streak
+## 📊 GitHub Contributions
 
 <div align="center">
-  <a href="https://github.com/DzimaSh">
-    <img src="https://streak-stats.demolab.com/?user=DzimaSh&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://ghchart.rshah.org/2ca5e0/DzimaSh" alt="Dzmitry's GitHub Contributions Chart" style="max-width: 100%;" />
 </div>
 
 ---
